@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Kanishka
+          Hello Kanishka new feature
         </a>
       </header>
     </div>
